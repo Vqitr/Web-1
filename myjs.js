@@ -1,2 +1,2 @@
 alert('Hello,Junsei!');
-alert(1/0);
+alert(0/0);
